@@ -21,6 +21,5 @@ public class RegistrationController {
 	    private Button registrate_button;
 	    
 	    @FXML
-	    private Button back_button; 
-
+	    private Button back_button;
 }
