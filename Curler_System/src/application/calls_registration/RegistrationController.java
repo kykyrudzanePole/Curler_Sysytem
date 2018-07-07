@@ -3,7 +3,9 @@ package application.calls_registration;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
-
+/* Class Controller for RegistrationView.fxml, 
+ * write logic for this ^ app.    
+ *  */
 public class RegistrationController {
 	    @FXML
 	    private TextField startadress_field;
